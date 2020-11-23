@@ -8,7 +8,7 @@ from colorama import Fore, Style
 import asyncio
 from discord_webhook import DiscordWebhook, DiscordEmbed
 
-token = "Nzc5NDA5NTc5MTQyMTUyMjEy.X7gHvA.Hmc-W51Cgq6MKAtWVppI7dwjAzg"
+token = "Add bot token here"
 
 CHANNEL_NAMES = ["get nuked bitch", "lol", "ez clap nigga", "lol rip ur server faggot"]
 
